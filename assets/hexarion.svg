@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-labelledby="title desc">
+  <title id="title">Hexarion</title>
+  <desc id="desc">A charcoal nameplate with cream lettering and a hand-drawn lavender asterisk. Personal projects, particular about the details.</desc>
+  <rect width="1280" height="300" rx="20" fill="#15161b"/>
+  <path d="M66 237H1214" stroke="#3b3c45" stroke-width="1"/>
+  <text x="62" y="173" fill="#f3f0e8" font-family="DejaVu Sans, Arial, sans-serif" font-size="130" font-weight="700" letter-spacing="-8">hexarion<tspan fill="#b6b0f7">.</tspan></text>
+  <text x="69" y="270" fill="#b8b6c0" font-family="DejaVu Sans Mono, monospace" font-size="16" letter-spacing="1">personal projects, particular about the details.</text>
+  <g fill="none" stroke="#b6b0f7" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1123 75C1120 97 1125 131 1122 153"/>
+    <path d="M1088 94C1114 108 1137 123 1157 135"/>
+    <path d="M1087 135C1107 121 1139 108 1155 95"/>
+  </g>
+  <circle cx="1184" cy="171" r="4" fill="#b6b0f7"/>
+</svg>
